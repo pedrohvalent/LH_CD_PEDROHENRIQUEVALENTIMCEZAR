@@ -2,7 +2,8 @@
 
 # Previsão de Notas do IMDB
 
-Este projeto prevê as notas do IMDB para filmes com base em várias características.
+Este projeto realiza uma análise preditiva a partir de um banco de dados cinematográficos para orientação sobre que tipo de filme deve ser o próximo a ser produzido.
+Prevê as notas do IMDB para filmes com base em várias características. 
 
 ## Instalação
 
