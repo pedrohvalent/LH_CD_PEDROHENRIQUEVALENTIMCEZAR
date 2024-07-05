@@ -26,5 +26,5 @@ Para executar o notebook e treinar o modelo, execute:
 ```sh
 jupyter notebook LH_CD_PEDROHENRIQUEVALENTIMCEZAR.ipynb
 
-O arquivo com códigos executáveis contém um plus com comentários da Análise Exploratória de Dados (EDA) realizada para o case. Adapte conforme o necessário para o seu uso.
+## O arquivo com códigos executáveis contém um plus com comentários da Análise Exploratória de Dados (EDA) realizada para o case. Adapte conforme o necessário para o seu uso.
 Enjoy!!
